@@ -29,7 +29,7 @@ Each skill in this repo can be packaged as a `.skill` file — a zip archive tha
 ### Option B — Clone the repo
 
 ```bash
-git clone https://bitbucket.org/Sky_Brain/claude-agent-skills.git
+git clone https://github.com/SkyBrain/Claude-Agent-Skills.git
 ```
 
 Then copy the skill folder(s) you want into your Claude skills directory:
